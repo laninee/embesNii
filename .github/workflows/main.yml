@@ -161,7 +161,7 @@
 <body>
   <div class="envelope" id="envelope">
     <div class="flap">
-      <div class="flap-text">Gửi tặng chị 💌</div>
+      <div class="flap-text">Gửi tặng chị</div>
     </div>
     <div class="seal">💌</div>
     <div class="heart" id="heart">❤️</div>
